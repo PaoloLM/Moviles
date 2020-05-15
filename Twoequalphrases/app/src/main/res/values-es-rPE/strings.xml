@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dos Frases Iguales</string>
+    <string name="ToaskError">Un momento.....</string>
+    <string name="Verificador1">Las frases son iguales</string>
+    <string name="Verificador2">Las frases no son iguales</string>
+    <string name="primera">"Primera Frase: "</string>
+    <string name="segunda">"Segunda Frase: "</string>
+    <string name="titulovocales">VOCALES CERRADAS</string>
+    <string name="vocalabierta1">"Vocales de la primera frase: "</string>
+    <string name="vocalabierta2">"Vocales de la segunda frase: "</string>
+    <string name="tituloprincipal">Comparar dos frases</string>
+    <string name="text1">Ingrese la primera frase</string>
+    <string name="text2">Ingrese la segunda frase</string>
+    <string name="boton">Comparar</string>
+    <string name="errortamaño">Cantidad de caracteres invalidos.....</string>
+</resources>

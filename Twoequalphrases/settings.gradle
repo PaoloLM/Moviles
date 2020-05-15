@@ -1,0 +1,2 @@
+rootProject.name='Two equal phrases'
+include ':app'

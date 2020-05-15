@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Two equal phrases</string>
+    <string name="ToaskError">Just a moment.....</string>
+    <string name="Verificador1">The sentences are the same</string>
+    <string name="Verificador2">The sentences arent the same</string>
+    <string name="primera">First Sentence: </string>
+    <string name="segunda">Second Sentence: </string>
+    <string name="titulovocales">CLOSED VOWELS</string>
+    <string name="vocalabierta1">Vowels of the first sentence: </string>
+    <string name="vocalabierta2">Vowels of the second sentence: </string>
+
+
+    <string name="tituloprincipal">Compare two sentences</string>
+    <string name="text1">Enter the first sentence</string>
+    <string name="text2">Enter the second sentence</string>
+    <string name="boton">Compare</string>
+    <string name="errortamaño">Number of invalid characters.....</string>
+</resources>
